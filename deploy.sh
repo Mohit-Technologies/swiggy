@@ -1,2 +1,4 @@
 updating this line from master branch
-this file contains deploy scriptk.
+this file contains deploy script.
+updaing this line from dev branch 
+this file contains deploy script.
